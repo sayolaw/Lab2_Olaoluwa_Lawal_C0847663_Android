@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab2_OlaoluwaLawal_C0847663_Android</string>
+    <string name="add_a_new_product">Add a new product</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="enter_price">Enter Price</string>
+    <string name="add_entry">Add Entry</string>
+    <string name="edit_entry">Edit Entry</string>
+    <string name="edit_product">Edit Product</string>
+</resources>
